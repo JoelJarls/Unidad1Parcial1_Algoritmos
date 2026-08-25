@@ -30,6 +30,7 @@ public class ejercicioCafeteria {
             System.out.println("El descuento es: " + subtotalDescuento);
             System.out.println("El total es: " + total);
             System.out.println("El cambio es: " + cambio);
+            sc.close();
         }
     }
 }
