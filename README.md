@@ -41,4 +41,4 @@ asignatura de Algortimos y logica de la programacion.
 ---
 
 
-** GRACIAS POR SER PARTE DEL CAMINO 
+## GRACIAS POR SER PARTE DEL CAMINO 
